@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name            = "sklog"
-version         = "2.0.0"
+version         = "2.0.2"
 description     = "Lightweight colored console logging with zero dependencies."
 readme          = "README.md"
 license         = { text = "MIT" }

@@ -1,4 +1,4 @@
-# xlog
+# sklog
 
 Lightweight colored console logging for Python. Zero dependencies, pure stdlib.
 
@@ -8,7 +8,7 @@ pip install sklog
 
 ---
 
-## Why xlog
+## Why sklog
 
 Python's built-in `logging` module is powerful but verbose to configure for
 simple scripts and CLI tools. `xlog` gives you colored, leveled output in one

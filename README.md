@@ -2,6 +2,9 @@
 
 Lightweight colored console logging for Python. Zero dependencies, pure stdlib.
 
+<img width="1410" height="684" alt="image" src="https://github.com/user-attachments/assets/6901b7ec-9734-4e27-8a02-64d22bb37263" />
+
+
 ```bash
 pip install sklog
 ```

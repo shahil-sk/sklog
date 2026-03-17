@@ -3,7 +3,7 @@ requires      = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name            = ""
+name            = "sklog"
 version         = "2.0.0"
 description     = "Lightweight colored console logging with zero dependencies."
 readme          = "README.md"

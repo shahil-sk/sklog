@@ -1,9 +1,9 @@
 """
-xlog - Lightweight colored console logging for Python.
+sklog - Lightweight colored console logging for Python.
 
 Basic usage::
 
-    from xlog import xlog_info, xlog_error, xlog_success
+    from sklog import xlog_info, xlog_error, xlog_success
 
     xlog_info("Server started")
     xlog_error("Connection refused")
@@ -11,13 +11,13 @@ Basic usage::
 
 Or use the generic entry point with a flag::
 
-    from xlog import xlog
+    from sklog import xlog
 
     xlog("Retrying...", "w")
     xlog("Done", "s", bold=True)
 """
 
-from xlog._core import (
+from sklog._core import (
     Colors,
     LogLevel,
     xlog,

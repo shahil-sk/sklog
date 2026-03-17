@@ -4,7 +4,7 @@ Tests for xlog. Run with: pytest
 
 import io
 import pytest
-from xlog import (
+from sklog import (
     xlog,
     xlog_error,
     xlog_warning,
